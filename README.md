@@ -1,4 +1,4 @@
-# portfolio
+# Nuxt Project
 
 ## Build Setup
 
